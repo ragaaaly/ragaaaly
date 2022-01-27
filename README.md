@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1 align="center">Hello world, I am Ragaa <img src="https://user-images.githubusercontent.com/67105668/151312308-5bc8cce2-9289-469d-a43b-bb17eeb8f66c.gif" width="29px">
 
-<!--
-**ragaaaly/ragaaaly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</h1>
+<p align="center">
+    <a href="https://www.linkedin.com/in/ragaaaly/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.instagram.com/ragaaaly1/"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
+  </p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m pursuing a bachelor of computer science and engineering at [The German University in Cairo](https://www.guc.edu.eg/), Egypt.
+- 🌱 I’m currently studying [CS50](https://cs50.harvard.edu/x/2022/) Course, have reached week 9 🤸🏻‍♀️.
+- ✍ I’m currently learning HTML, CSS, JavaScript & Nodejs.
+- 💬 Ask me about [CS50](https://cs50.harvard.edu/x/2022/).
+- 📫 How to reach me: ragaa.aly20@gmail.com
+- 😄 Pronouns: she/her
+
+<div align="center">
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragaaaly&layout=compact" />
+</div>
