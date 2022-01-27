@@ -8,8 +8,8 @@
 
 
 
-- 🔭 I’m pursuing a bachelor of computer science and engineering at [The German University in Cairo](https://www.guc.edu.eg/), Egypt.
-- 🌱 I’m currently studying [CS50](https://cs50.harvard.edu/x/2022/) Course, have reached week 9 🤸🏻‍♀️.
+- 🔭 I’m currently pursuing a bachelor of computer science and engineering at [The German University in Cairo](https://www.guc.edu.eg/), Egypt.
+- 🌱 I’m studying [CS50](https://cs50.harvard.edu/x/2022/) Course, have reached week 9 🤸🏻‍♀️.
 - ✍ I’m currently learning HTML, CSS, JavaScript & Nodejs.
 - 💬 Ask me about [CS50](https://cs50.harvard.edu/x/2022/).
 - 📫 How to reach me: ragaa.aly20@gmail.com
